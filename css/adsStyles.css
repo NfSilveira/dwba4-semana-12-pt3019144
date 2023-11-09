@@ -1,0 +1,26 @@
+#courseDataDiv {
+  text-align: center;
+}
+
+#courseDataTable {
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#courseDataTable th {
+  background-color: #4caf50;
+  color: white;
+  padding: 8px;
+}
+
+#courseDataTable tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+#courseDataTable td {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
